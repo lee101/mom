@@ -1,0 +1,25 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# Miscellaneous
+google_analytics: UA-65838109-1
+favicon: /favicon.png
+twitter: LeeLeepenkman
+google_plus: +LeePenkman
+fb_admins:
+fb_app_id:
