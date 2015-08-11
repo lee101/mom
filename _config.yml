@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: How.nz Tech Blog
+title: Mom.nz Blog
 subtitle: Web Development and Programming
 description: Web Development Tech Blog
 author: Lee Penkman
@@ -12,7 +12,7 @@ timezone: Pacific/Auckland
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://how.nz
+url: http://mom.nz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,10 +63,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: minos
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: https://git.heroku.com/hownz.git
+  repo: https://git.heroku.com/mom.git
