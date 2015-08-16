@@ -4,9 +4,9 @@
 
 # Site
 title: Mom.nz Blog
-subtitle: Web Development and Programming
-description: Web Development Tech Blog
-author: Lee Penkman
+subtitle: Moms and Dads blog
+description: Moms and Dads blog
+author: Mom.nz
 language: en
 timezone: Pacific/Auckland
 
@@ -69,4 +69,4 @@ theme: minos
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: https://git.heroku.com/mom.git
+  repo: https://git.heroku.com/momnz.git
