@@ -39,3 +39,4 @@ My experience of the hospital food was gross, i would definitely have some money
 There will be other things you need to bring as well so i advise you to write down everything you think you will need. Heck just throw it in, even if you're unsure you will need it. Don't be afraid to be that one person who rolls up with three bags and pillows strapped to you. I was and everyone just thought it was cute or funny but in the end i pretty much used everything i brought. Pack your bag as soon as you can and then just keep adding to it every week i started packing mine at about 30 weeks and had it fully packed by 36 weeks, i didn't end up going into labour till 42 weeks but it's best to be prepared as 36 weeks is considered full term.
 
 Good luck and i wish you the all the best on this exciting journey!
+
