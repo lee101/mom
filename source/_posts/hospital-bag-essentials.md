@@ -1,5 +1,9 @@
-title: Hospital bag check-list 
+title: Hospital bag check-list
 date: 2015-07-01 08:59:32
+tags: 
+- Birthing
+- Check-list
+- Hospital bag
 ---
 So if you are going in for a hospital birth here are some things you're going to want to take with you on this exciting trip.
 
